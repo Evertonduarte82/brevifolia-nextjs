@@ -18,7 +18,7 @@ Nas colinas e montanhas, o clima é úmido continental . Nos vales é relativame
 
 A precipitação é mais intensa na zona **[pré-clara](https://en.wikipedia.org/wiki/Bergamasque_Alps 'pré-clara')**, de 1.500 a 2.000 mm (59,1 a 78,7 in) anualmente, mas é abundante também nas planícies e zonas alpinas, com uma média de 600 a 850 mm (23,6 a 33,5) anualmente. A precipitação anual total é em média de 827 mm.
 
-![Pinacoteca](../static/Pinacotec.jpg)
+![Pinacoteca](../static/Bibioteca.jpg)
 
 A Pinacoteca di Brera é a principal galeria pública de pinturas de Milão,itália. Contém uma das principais coleções de pinturas italianas, um desdobramento da programação cultural da Academia Brera,que divide o local no Palazzo Brera.
 

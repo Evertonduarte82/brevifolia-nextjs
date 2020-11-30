@@ -1,7 +1,7 @@
 ---
 author: "Everton Duarte"
 date: '2020-11-27T16:04:44.000Z'
-hero_image: ../static/deserto.jpg
+hero_image: ../static/desert.jpg
 title: Deserto
 ---
 Deserto, em geografia, é uma região que recebe pouca precipitação pluviométrica. Muitos desertos têm um **[índice pluviométrico](https://pt.wikipedia.org/wiki/%C3%8Dndice_pluviom%C3%A9trico)** anual abaixo de 400 mm. Como consequência são áridos, tendo a reputação de serem capazes de sustentar pouca vida. Comparando-se com regiões mais úmidas isto pode ser verdade, porém, examinando-se mais detalhadamente, os desertos frequentemente abrigam uma riqueza de vida que normalmente permanece escondida (especialmente durante o dia) para conservar umidade.
